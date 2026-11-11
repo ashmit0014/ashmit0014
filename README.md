@@ -1,51 +1,43 @@
-# Ashmit Kundu
+<p align="center">
+  <img src="assets/identity.png" alt="Ashmit Kundu — useful tools, thoughtful apps, playable worlds. Windows, iOS, Android, and web." width="100%" />
+</p>
 
-I build tools I want on my own desk, apps for everyday use, and games with worlds of their own.
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="https://github.com/ashmit0014?tab=repositories">Repositories</a> &nbsp; / &nbsp;
+  <a href="https://ashmit0014.github.io/agent-playbook/">Read the playbook ↗</a>
+</p>
 
-Windows + iOS · Android · Web · Applied ML
-
-[Explore my repositories](https://github.com/ashmit0014?tab=repositories) · [Agent Playbook](https://ashmit0014.github.io/agent-playbook/)
-
----
+<br />
 
 ### Selected work
 
-#### Sidekick
-**An old iPad. A new job.**
+<img src="assets/sidekick.png" alt="Sidekick — an old iPad, a new job. A Windows desk companion for media, contextual controls, and AI-agent activity. Built with C#, .NET, Objective-C, and WebSockets. In development; source private. Includes a stylized device illustration." width="100%" />
 
-Turning a first-generation iPad mini into a dedicated desk companion for Windows: contextual controls, media playback, windows and tabs, and AI-agent activity at a glance.
+Built for a first-generation iPad mini running iOS 8 with 512 MB of RAM. A Windows agent and native iOS shell turn it into something worth keeping beside the keyboard.
 
-A C# / .NET Windows agent talks to an Objective-C iOS shell over WebSockets through an SSH tunnel. Built around the constraints of iOS 8 and 512 MB of RAM, with the interface running on the real device.
+<p>
+  <a href="https://github.com/ashmit0014/agent-playbook"><img src="assets/playbook.png" alt="Agent Playbook — practical operating rules and prompts for working with AI, grounded in real project experience. Open repository." width="49%" /></a>
+  <a href="https://github.com/ashmit0014/traceai"><img src="assets/traceai.png" alt="TraceAI — production incident investigation with source-linked evidence, streaming reports, and a runnable deterministic demo. Open repository." width="49%" /></a>
+</p>
 
-`C#` `ASP.NET Core` `Objective-C` `JavaScript` `WebSockets`
+<br />
 
-<sub>In development · source currently private</sub>
+<img src="assets/stack.png" alt="Toolbox: C# and .NET, Objective-C, TypeScript, Kotlin, Python, and Godot." width="100%" />
 
-#### [Agent Playbook ↗](https://github.com/ashmit0014/agent-playbook)
-**What real projects taught me about working with AI agents.**
-
-Operating rules and a prompt builder for software, research, writing, and ongoing projects. Focused on evidence, human judgment, useful context, and knowing when to change approach.
-
-[Read it and build a prompt →](https://ashmit0014.github.io/agent-playbook/)
-
-#### [TraceAI ↗](https://github.com/ashmit0014/traceai)
-**Follow an incident back to the evidence.**
-
-A production incident investigation workspace connecting logs, metrics, deployments, and code. Streaming investigations, source-linked reports, and a deterministic demo you can run without an API key.
-
-`TypeScript` `Next.js` `React` `Prisma` `SQLite`
+<br />
 
 ### Other builds
 
-| Project | Idea |
+| | |
 | :--- | :--- |
-| **Cadia** | An Android app for habits you want to build, stop, or reduce. Progress stays visible after a slip. |
-| **Heartwood** | A habit tracker where each habit grows into a tree. Cumulative practice shapes its size; recent rhythm shapes its health. |
-| **Bellhollow** | An archived 2D sword-platformer prototype through a haunted graveyard, crypts, and bell tower. Built in Godot. |
-| **Lanternmarch** | An idle kingdom-builder with procedural art, synthesized audio, and a realm to grow through five eras. Built in Godot. |
+| **Cadia** | Android habit tracking for things you want to do, stop, or reduce. |
+| **Heartwood** | Each habit becomes a tree, shaped by cumulative practice and recent rhythm. |
+| **Bellhollow** | An archived Godot sword-platformer prototype set around a haunted bell tower. |
+| **Lanternmarch** | A Godot idle kingdom-builder with procedural art and synthesized audio. |
 
 <details>
-<summary>Earlier work in machine learning</summary>
+<summary>Earlier experiments in machine learning</summary>
 
 - [SAR Flood Detection](https://github.com/ashmit0014/sar-flood-detection) — flood boundaries from Sentinel-1 radar imagery.
 - [Hindi Named Entity Recognition](https://github.com/ashmit0014/Hindi-NER-NLP-Project) — multilingual BERT fine-tuned on WikiAnn.
