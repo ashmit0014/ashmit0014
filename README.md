@@ -1,42 +1,33 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/editorial/intro-compact-dark.png" />
-  <source media="(max-width: 600px)" srcset="assets/editorial/intro-compact-light.png" />
+  <source media="(max-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/editorial/intro-compact-dark.png" />
+  <source media="(max-width: 1100px)" srcset="assets/editorial/intro-compact-light.png" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/intro-dark.png" />
   <img src="assets/editorial/intro-light.png" alt="Ashmit Kundu. Software development: Windows tools, Android apps, games, and applied machine learning." width="100%" />
 </picture>
 
 [Projects](#selected-projects) &nbsp; · &nbsp; [Repositories](https://github.com/ashmit0014?tab=repositories) &nbsp; · &nbsp; [Agent Playbook](https://ashmit0014.github.io/agent-playbook/)
 
-<br />
-
 ### Selected projects
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/editorial/sidekick-compact-dark.png" />
-  <source media="(max-width: 600px)" srcset="assets/editorial/sidekick-compact-light.png" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/sidekick-dark.png" />
-  <img src="assets/editorial/sidekick-light.png" alt="Sidekick. A first-generation iPad mini repurposed as a Windows desk companion, with media controls, windows and tabs, and AI-agent status. C#, .NET, Objective-C, and JavaScript. Source currently private." width="100%" />
-</picture>
+#### Sidekick
 
-<a href="https://github.com/ashmit0014/agent-playbook">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/editorial/playbook-compact-dark.png" />
-    <source media="(max-width: 600px)" srcset="assets/editorial/playbook-compact-light.png" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/playbook-dark.png" />
-    <img src="assets/editorial/playbook-light.png" alt="Agent Playbook. Operating rules and a prompt builder for working with AI agents, drawn from practical project experience. Open repository." width="100%" />
-  </picture>
-</a>
+A first-generation iPad mini repurposed as a Windows desk companion. Media controls, windows and tabs, and AI-agent activity at a glance.
 
-<a href="https://github.com/ashmit0014/traceai">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/editorial/traceai-compact-dark.png" />
-    <source media="(max-width: 600px)" srcset="assets/editorial/traceai-compact-light.png" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/traceai-dark.png" />
-    <img src="assets/editorial/traceai-light.png" alt="TraceAI. Production incident investigation across logs, metrics, releases, and code, with streaming activity and reports linked to evidence. TypeScript, Next.js, React, and SQLite. Open repository." width="100%" />
-  </picture>
-</a>
+<sub>C# · .NET · Objective-C · JavaScript &nbsp; / &nbsp; Source currently private</sub>
 
-### Elsewhere in the projects folder
+#### [Agent Playbook](https://github.com/ashmit0014/agent-playbook)
+
+Operating rules and a prompt builder for working with AI agents, drawn from practical project experience.
+
+<sub>[Read online](https://ashmit0014.github.io/agent-playbook/) · [Source](https://github.com/ashmit0014/agent-playbook)</sub>
+
+#### [TraceAI](https://github.com/ashmit0014/traceai)
+
+Production incident investigation across logs, metrics, releases, and code. Streaming activity and reports linked back to their evidence.
+
+<sub>TypeScript · Next.js · React · SQLite &nbsp; / &nbsp; [Source](https://github.com/ashmit0014/traceai)</sub>
+
+### Other projects
 
 **Cadia** — Android habit tracking for things to build, stop, or reduce.  
 **Heartwood** — an Android habit tracker that represents practice through growing trees.  
